@@ -7,12 +7,16 @@ Animebot is a chatbot that answers questions about anime using the Cohere API.
 - Python 3.8 or higher
 - Virtual environment (optional but recommended)
 
+# Dependencies
+- dotenv
+- cohere
+
 ## Setup
 
 ### 1. Clone the repository
 
 ```sh
-git clone <repository-url>
+git clone <https://github.com/surajssc1232/demo-llm-commandr>
 cd <repository-directory>
 ```
 ### 2. Create and activate a virtual envirnonment
