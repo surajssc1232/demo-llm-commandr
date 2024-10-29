@@ -6,7 +6,7 @@ load_dotenv()
 
 api_key=os.getenv('api_key')
 
-co = cohere.ClientV2("api_key")
+co = cohere.ClientV2(api_key)
 
 def chat_with_cohere():
     print("Animebot is ready! Ask me anything about any anime but just not MHA its bad. Type 'exit' to end the conversation.")
