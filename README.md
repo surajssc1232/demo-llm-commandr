@@ -11,6 +11,10 @@ Animebot is a chatbot that answers questions about anime using the Cohere API.
 - dotenv
 - cohere
 
+
+https://github.com/user-attachments/assets/b00e7e31-7d05-424b-b217-a04fa5a921d2
+
+
 ## Setup
 
 ### 1. Clone the repository
